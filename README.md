@@ -1,3 +1,3 @@
-- 👋 @JennyVicencioDev. Desarrolladora Front End de Rompecabeza
+- 👋 @JennyVicencioDev. Front End Developer de Rompecabeza
 - 📫 jennyfer.v@rompecabeza.cl
 - 🇨🇱
